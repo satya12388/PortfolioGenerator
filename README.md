@@ -26,3 +26,6 @@ It extracts information from a resume, identifies a suitable theme, and generate
 ✅ Generates HTML, CSS, and JavaScript dynamically using LLMs
 ✅ Real-time preview before downloading
 ✅ Uses Jinja2 templates for easy customization
+
+## For Trying it on streamlit Cloud:
+https://portfoliogenerator.streamlit.app/
