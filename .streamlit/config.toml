@@ -1,0 +1,5 @@
+[theme] # You have to add this line
+primaryColor = '#3D3D3D' 
+backgroundColor = '#F5ECD5'
+secondaryBackgroundColor = '#F5ECD5'
+textColor="#3D3D3D"

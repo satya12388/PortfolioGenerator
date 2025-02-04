@@ -1,0 +1,13 @@
+# Ignore API keys and credentials
+.env
+
+# Ignore Python virtual environments
+venv/
+__pycache__/
+
+# Ignore unnecessary system files
+.DS_Store
+*.log
+
+# Streamlit-generated cache files (optional)
+# REMOVE this line if you want to include custom theme
